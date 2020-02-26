@@ -1,6 +1,9 @@
+# TS-J | Open Community
 TS-J, to bulid a free and open developer community, that easy to find and publish.
 
 We are from China. We face the world. if the Internet belongs to everyone, we are here for them.
+
+The main members are MCCF (Bingyuan Zou) and JHRWX (Zhongmiao Ma). We are not a big group yet, but we will try our best to contribute to the development of information technology.
 
 ## Why Are We Here
 The Internet is a global project and changing the world at the same time. With the development of the Internet, a large number of data can be quickly obtained on the network, and it is easy to use and access, modify and keep pace with the times.
