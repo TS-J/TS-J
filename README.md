@@ -19,6 +19,6 @@ Few specialized organizations integrate these materials to make them easy to mod
 As you can see, TSJ is one of the organizations trying to solve this problem. "Team" means that each user can participate in and enrich the community, while "Self" means that each user can easily get information and resources from it, instead of having to gradually understand its core ideas from thick books; we hope that the Internet can become a platform for self-study and targeted studying.
 
 ## What does Our Name Mean?
-Oh, right, we are called TSJ, but we don't pay attention to its specific meaning any more. You are free to imagine what it means, which may lead to interesting results, such as TeacherJustStayed？ Oh, my God. However, we still think that there are many fun things can happen, such as we may build a tstyle.css stylesheet, or we currently mainly implement the term.js plugin, and our website project TS-Judge, etc.
+Oh, right, we are called TSJ, but we don't pay attention to its specific meaning any more. You are free to imagine what it means, which may lead to interesting results, such as TeacherJustStayed？ Oh, my God. However, we still think that there are many fun things can happen, such as we may build a tstyle.css stylesheet, or we currently mainly implement the target.js plugin, and our website project TS-Judge, etc.
 
 If you do want to know what the name means when it's determined, think about TeamSelf-J (In fact, this is still not the right answer).
